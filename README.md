@@ -19,10 +19,10 @@ This project follows the CRISP-DM process. Details are narrated in the jupyter n
 ## Installations
 Python 3.5 is used to create this project and the following libraries are used:
 
-Machine Learning Libraries: NumPy, Pandas, Sciki-Learn
-Statistics Libraries: Scipy, Statsmodel
-Natural Language Processing: NLTK
-Date time libraries: datetime, time
+- Machine Learning Libraries: NumPy, Pandas, Sciki-Learn
+- Statistics Libraries: Scipy, Statsmodel
+- Natural Language Processing: NLTK
+- Date time libraries: datetime, time
 
 
 ## Credits
