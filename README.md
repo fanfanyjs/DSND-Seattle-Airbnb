@@ -28,13 +28,13 @@ Availability (for 30, 60, 90, 365 day in the future) are classified into 'high',
 
 Only 8 property subsets (room type, size and neighbourhood combinations) show significant differences (p-values below 0.05) between superhost and non-superhost properties. Unexpectedly, for these subsets, there is a larger propertion of superhost properties that have more availability than non-superhosts. 
 
-![The following example is Entire Home/Apartments with 1 bedroom in Downtown area - the blue chart represents the future 30-day availability of superhosts whilst the red represents non-superhosts.](.../charts/entirehome-1brm-downtown-av30.PNG)
+![The following example is Entire Home/Apartments with 1 bedroom in Downtown area - the blue chart represents the future 30-day availability of superhosts whilst the red represents non-superhosts.](/charts/entirehome-1brm-downtown-av30.PNG)
 
 #### 2. There is only enough evidence to show superhosts price higher than non-superhosts in 8 property subsets in Seattle.
 
 Only 8 subsets show significant difference in price distribution at significance level of 10% (p-values below 0.05). In these cases, superhosts properties are pricier than those that do not have such status. 
 
-![An example here is a one-bedroom Private Room in the Central Area, where blue represents the price distribution of superhost properties and red non-superhost properties.](.../charts/privaterm-1brm-central-price.PNG)
+![An example here is a one-bedroom Private Room in the Central Area, where blue represents the price distribution of superhost properties and red non-superhost properties.](/charts/privaterm-1brm-central-price.PNG)
 
 #### 3. Top factors influencing availability are features related to past review frequency and timing, prices, response time and rate, and when the host started hosting on Airbnb.
 
@@ -42,9 +42,9 @@ The factors and their respective ranking influencing shorter term (30-/ 60-/ 90-
 
 The number of reviews per month and the time of the latest review show higher relative importance in influencing short-term availability.
 
-![Top features influencing 30-day availability](https://raw.githubusercontent.com/fanfanyjs/DSND-Seattle-Airbnb/charts/featimp_30.PNG)
+![Top features influencing 30-day availability](/charts/featimp_30.PNG)
 
-![Top features influencing 365-day availability](https://raw.githubusercontent.com/fanfanyjs/DSND-Seattle-Airbnb/charts/featimp_365.PNG)
+![Top features influencing 365-day availability](/charts/featimp_365.PNG)
 
 ## Limitations
 For Questions 1 and 2, there are insufficient data points in a lot of property subsets and so the test cannot be conducted for those samples. A potential mitigation method is to take random samples from both the superhost and non-superhost population that is representative of their room type, size and neighbourhood distribution and carry out statistical testing on a bigger set of data. Else, if panel data is available, we could understand whether a hosts' availability or pricing change significantly before and after getting the status.
