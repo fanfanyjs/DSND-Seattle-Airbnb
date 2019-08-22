@@ -28,13 +28,13 @@ Availability (for 30, 60, 90, 365 day in the future) are classified into 'high',
 
 Only 8 property subsets (room type, size and neighbourhood combinations) show significant differences (p-values below 0.05) between superhost and non-superhost properties. Unexpectedly, for these subsets, there is a larger propertion of superhost properties that have more availability than non-superhosts. 
 
-![The following example is Entire Home/Apartments with 1 bedroom in Downtown area - the blue chart represents the future 30-day availability of superhosts whilst the red represents non-superhosts.](https://raw.githubusercontent.com/fanfanyjs/DSND-Seattle-Airbnb/charts/entirehome-1brm-downtown-av30.PNG)
+![The following example is Entire Home/Apartments with 1 bedroom in Downtown area - the blue chart represents the future 30-day availability of superhosts whilst the red represents non-superhosts.](.../charts/entirehome-1brm-downtown-av30.PNG)
 
 #### 2. There is only enough evidence to show superhosts price higher than non-superhosts in 8 property subsets in Seattle.
 
 Only 8 subsets show significant difference in price distribution at significance level of 10% (p-values below 0.05). In these cases, superhosts properties are pricier than those that do not have such status. 
 
-![An example here is a one-bedroom Private Room in the Central Area, where blue represents the price distribution of superhost properties and red non-superhost properties.](https://raw.githubusercontent.com/fanfanyjs/DSND-Seattle-Airbnb/charts/privaterm-1brm-central-price.PNG)
+![An example here is a one-bedroom Private Room in the Central Area, where blue represents the price distribution of superhost properties and red non-superhost properties.](.../charts/privaterm-1brm-central-price.PNG)
 
 #### 3. Top factors influencing availability are features related to past review frequency and timing, prices, response time and rate, and when the host started hosting on Airbnb.
 
