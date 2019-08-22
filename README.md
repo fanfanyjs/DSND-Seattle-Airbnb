@@ -29,6 +29,7 @@ Availability (for 30, 60, 90, 365 day in the future) are classified into 'high',
 Only 8 property subsets (room type, size and neighbourhood combinations) show significant differences (p-values below 0.05) between superhost and non-superhost properties. Unexpectedly, for these subsets, there is a larger propertion of superhost properties that have more availability than non-superhosts. 
 
 The following example is Entire Home/Apartments with 1 bedroom in Downtown area - the blue chart represents the future 30-day availability of superhosts whilst the red represents non-superhosts.
+
 ![Q1_p1](/charts/entirehome-1brm-downtown-av30.PNG)
 
 #### 2. There is only enough evidence to show superhosts price higher than non-superhosts in 8 property subsets in Seattle.
@@ -36,6 +37,7 @@ The following example is Entire Home/Apartments with 1 bedroom in Downtown area 
 Only 8 subsets show significant difference in price distribution at significance level of 10% (p-values below 0.05). In these cases, superhosts properties are pricier than those that do not have such status. 
 
 An example here is a one-bedroom Private Room in the Central Area, where blue represents the price distribution of superhost properties and red non-superhost properties.
+
 ![Q2_p1](/charts/privaterm-1brm-central-price.PNG)
 
 #### 3. Top factors influencing availability are features related to past review frequency and timing, prices, response time and rate, and when the host started hosting on Airbnb.
@@ -45,9 +47,11 @@ The factors and their respective ranking influencing shorter term (30-/ 60-/ 90-
 The number of reviews per month and the time of the latest review show higher relative importance in influencing short-term availability.
 
 Top features influencing 30-day availability
+
 ![Q3_p1](/charts/featimp_30.PNG)
 
 Top features influencing 365-day availability
+
 ![Q3_p2](/charts/featimp_365.PNG)
 
 ## Limitations
