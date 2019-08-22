@@ -54,6 +54,8 @@ Top features influencing 365-day availability
 
 ![Q3_p2](/charts/featimp_365.PNG)
 
+Link to Medium blog post: https://medium.com/@yap.fantasy/does-an-airbnb-superhost-status-give-you-more-pricing-power-and-higher-occupancy-d9ab6c4ef2db
+
 ## Limitations
 For Questions 1 and 2, there are insufficient data points in a lot of property subsets and so the test cannot be conducted for those samples. A potential mitigation method is to take random samples from both the superhost and non-superhost population that is representative of their room type, size and neighbourhood distribution and carry out statistical testing on a bigger set of data. Else, if panel data is available, we could understand whether a hosts' availability or pricing change significantly before and after getting the status.
 
